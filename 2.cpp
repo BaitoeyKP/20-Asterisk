@@ -1,4 +1,4 @@
-//64010045 กัลยรัตน์ ผูกโอสถ
+//64010045 KANYARAT PHOOKOSOT
 #include<stdio.h>
 int main(){
 	int i;
